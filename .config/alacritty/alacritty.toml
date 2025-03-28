@@ -2,6 +2,7 @@
 shell= { program="C:\\Program Files\\PowerShell\\7\\pwsh.exe" }
 
 [window]
+startup_mode = "Maximized"
 dynamic_title = false
 decorations = "None"
 opacity = 0.5
