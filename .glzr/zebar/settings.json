@@ -1,0 +1,9 @@
+{
+  "$schema": "TODO",
+  "startupConfigs": [
+    {
+      "path": "squircle\\squircle.zebar.json",
+      "preset": "default"
+    }
+  ]
+}

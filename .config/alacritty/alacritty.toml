@@ -1,0 +1,24 @@
+[terminal]
+shell= { program="C:\\Program Files\\PowerShell\\7\\pwsh.exe" }
+
+[window]
+dynamic_title = false
+decorations = "None"
+opacity = 0.5
+  [window.padding]
+  x = 7
+  y = 7
+
+[font]
+size = 12
+  [font.normal]
+  family = "RobotoMono Nerd Font"
+  style = "Regular"
+
+  [font.bold]
+  family = "RobotoMono Nerd Font"
+  style = "Bold"
+
+  [font.italic]
+  family = "RobotoMono Nerd Font"
+  style = "Italic"
